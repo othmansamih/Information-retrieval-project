@@ -22,7 +22,8 @@ The system also includes an evaluation function that compares true answers with 
 To install the necessary dependencies for this project, run the following command:
 
 ```bash
-!pip install datasets transformers chromadb
+#!pip install datasets transformers chromadb
+!pip install -r requirements.txt
 ```
 
 This installs the following packages:
